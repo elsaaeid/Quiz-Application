@@ -24,6 +24,7 @@ const questions = [
 
 // DOM elements
 const questionContainer = document.getElementById("question-container");
+const quiz = document.getElementById("quiz");
 const questionElement = document.getElementById("question");
 const optionsElement = document.getElementById("options");
 const nextButton = document.getElementById("next-btn");
@@ -89,6 +90,7 @@ nextButton.addEventListener("click", () => {
 // Show score and end the quiz
 function showScore() {
     questionContainer.classList.add("hidden");
+    quiz.classList.add("hidden");
     scoreContainer.classList.remove("hidden");
     scoreElement.textContent = score;
     totalElement.textContent = questions.length;
@@ -100,6 +102,7 @@ restartButton.addEventListener("click", () => {
     currentQuestionIndex = 0;
     scoreContainer.classList.add("hidden");
     questionContainer.classList.remove("hidden");
+    quiz.classList.remove("hidden");
     loadQuestion();
 });
 
