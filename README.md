@@ -1,26 +1,25 @@
-# Todo list project
-#### Welcome to my website! This project is a simple web application built using HTML, CSS, and JavaScript. It showcases my skills in front-end development and serves as a portfolio piece.
+# Interactive Quiz Application
+#### Welcome to the Interactive Quiz Application! This project is designed to provide a fun and engaging way to test your knowledge through quizzes. It is built using HTML, CSS, and JavaScript, making it a great project for beginners and experienced developers alike.
 
 # Table of Contents
 ### Features
 ### Technologies Used
-### Installation
 ### Usage
 ### Contributing
 ### License
 
 # Features
-#### Responsive Design: The website is designed to be mobile-friendly and looks great on all devices.
-Interactive Elements: JavaScript is used to add interactivity, enhancing user experience.
-Clean and Modern UI: The CSS styles provide a clean and modern look to the website.
+- Interactive Quiz: Users can answer multiple-choice questions and receive immediate feedback.
+- Dynamic Question Display: Questions are displayed one at a time, enhancing user engagement.
+- Responsive Design: The application is designed to work on various devices, including desktops and mobile phones.
 
 # Technologies Used
-HTML: For structuring the content of the website.
-CSS: For styling and layout.
-JavaScript: For adding interactivity and dynamic content.
+- HTML: For the structure of the application.
+- CSS: For styling and layout.
+- JavaScript: For functionality and interactivity.
 
 # Usage
-#### Feel free to explore the website and test its features. You can modify the code to customize the website according to your preferences.
+#### Once the application is open in your browser, you can start the quiz by clicking the "Start" button. Answer the questions by clicking on the answer buttons. After answering, you will receive feedback on whether your answer was correct or not. At the end of the quiz, you will be notified that the quiz is finished.
 
 # Contributing
 #### Contributions are welcome! If you have suggestions for improvements or want to add new features, please fork the repository and submit a pull request.
