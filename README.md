@@ -1,7 +1,8 @@
 # Interactive Quiz Application
 #### Welcome to the Interactive Quiz Application! This project is designed to provide a fun and engaging way to test your knowledge through quizzes. It is built using HTML, CSS, and JavaScript, making it a great project for beginners and experienced developers alike.
-
+<center>
 <img src="./assets/images/quiz-application.png" alt="quiz-application" />
+</center>
 
 # Live Demo
 #### [View the live demo](https://quiz-application-said.vercel.app)
